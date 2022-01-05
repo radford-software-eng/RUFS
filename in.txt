@@ -1,0 +1,4 @@
+addProgram first 4 1 1 1
+setMemory 5
+setBurst 4
+start first
